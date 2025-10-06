@@ -5,10 +5,10 @@ import App from './App.jsx'
 import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router-dom'
 import Layout from './Layout.jsx'
 import Home from './components/home/home.jsx'
-import About from './components/About/about.jsx'
-import Contact from './components/Contact/contact.jsx'
-import User from './components/User/User.jsx'
-import Github, {githubInfoLoader} from './components/Github/Github.jsx'
+import About from './components/About/About.jsx' // Verify 'About' folder capitalization
+import Contact from './components/Contact/Contact.jsx' // Verify 'Contact' folder capitalization
+import User from './components/User/User.jsx' // This one has a capital 'U'
+import Github, {githubInfoLoader} from './components/Github/Github.jsx' // This one has a capital 'G'
 
 
 
