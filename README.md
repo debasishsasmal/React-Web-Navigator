@@ -17,7 +17,7 @@ A multi-page personal portfolio and web navigator application built using React.
 
 ## Screenshot
 
-<img width="1279" height="885" alt="image" src="https://github.com/user-attachments/assets/c2af5845-b6e7-4366-b050-2fa68d33bc12" />
+<img width="1277" height="879" alt="image" src="https://github.com/user-attachments/assets/0ffeb4c4-f787-4cfa-8dc7-c03788dc1034" />
 
 ---
 
