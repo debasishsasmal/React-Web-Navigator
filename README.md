@@ -2,7 +2,7 @@
 
 A multi-page personal portfolio and web navigator application built using React.js. This project leverages React Router v6 for dynamic routing and fetches live data from the GitHub API to populate profile information.
 
-[**Live Demo**](https://your-live-demo-link-here.com) 
+[**Live Demo**](https://loquacious-torte-7c9c53.netlify.app/) 
 
 ---
 
