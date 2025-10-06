@@ -1,6 +1,6 @@
 # React Web Navigator
 
-[cite_start]A multi-page personal portfolio and web navigator application built using React.js. [cite_start]This project leverages React Router v6 for dynamic routing and fetches live data from the GitHub API to populate profile information.
+A multi-page personal portfolio and web navigator application built using React.js. This project leverages React Router v6 for dynamic routing and fetches live data from the GitHub API to populate profile information.
 
 [**Live Demo**](https://your-live-demo-link-here.com) 
 
@@ -25,8 +25,8 @@
 
 - **Multi-Page Navigation:** A seamless user experience with client-side routing, eliminating page reloads.
 - **Dynamic Routing:** Utilizes URL parameters to dynamically fetch and display data for different users.
-- [cite_start]**Live API Data:** Fetches real-time user data directly from the GitHub API to keep the profile information current.
-- [cite_start]**Personalized Content:** The project has been customized to feature your personal details, serving as a dynamic portfolio.
+- **Live API Data:** Fetches real-time user data directly from the GitHub API to keep the profile information current.
+- **Personalized Content:** The project has been customized to feature your personal details, serving as a dynamic portfolio.
 - **Responsive Design:** A clean UI that adapts to all screen sizes.
 
 ---
