@@ -5,10 +5,10 @@ import App from './App.jsx'
 import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router-dom'
 import Layout from './Layout.jsx'
 import Home from './components/home/home.jsx'
-import About from './components/about/about.jsx'
-import Contact from './components/contact/contact.jsx'
-import User from './components/user/user.jsx'
-import Github, {githubInfoLoader} from './components/github/github.jsx'
+import About from './components/About/about.jsx'
+import Contact from './components/Contact/contact.jsx'
+import User from './components/User/User.jsx'
+import Github, {githubInfoLoader} from './components/Github/github.jsx'
 
 
 
